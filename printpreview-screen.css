@@ -1,0 +1,5 @@
+.screen-element { display: inline-block; }
+.print-element { display: none; }
+
+.input-text { display: inline-block; }
+.input-text-print { display: none; }
