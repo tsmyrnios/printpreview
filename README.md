@@ -2,16 +2,17 @@
 
 The printpreview.js script allows for form fields to be automagically expanded for print.
 
-##Dependencies
+####Dependencies
+
 - jQuery 1.7+
 
-##Required Files
+####Required Files
 
 - printpreview.js
 - printpreview-print.css
 - printpreview-screen.css
 
-##Sample Usage
+####Sample Usage
 
     <html>
         <head>
