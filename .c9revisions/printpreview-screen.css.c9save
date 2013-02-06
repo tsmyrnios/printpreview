@@ -1,0 +1,1 @@
+{"ts":1360182317584,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,".screen-element { display: inline-block; }\r\n.print-element { display: none; }\r\n\r\n.input-text { display: inline-block; }\r\n.input-text-print { display: none; }"]],"start1":0,"start2":0,"length1":0,"length2":157}]],"length":157}
